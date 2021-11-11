@@ -17,3 +17,7 @@
 ## 1.0.5
 
 * update image button
+
+## 1.0.6
+
+* update some information
