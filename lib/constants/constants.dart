@@ -190,15 +190,3 @@ final kSubTextDialog = TextStyle(
     fontFamily: kMyFont,
     fontWeight: FontWeight.w400,
     color: Colors.black);
-
-const USER_AGENT =
-    "Mozilla/5.0 (Linux; Android 9; LG-H870 Build/PKQ1.190522.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36";
-const AWS_COGITO = 'aws.cognito.signin.user.admin';
-const EMAIL = 'email';
-const CALENDAR = 'https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar';
-const PROFILE = 'profile';
-const GOOGLE_AUTH_URL = 'https://accounts.google.com/o/oauth2/v2/auth';
-const OPEN_ID = 'openid';
-const TEXT_PREVIEW =
-    'The time is converted to local time and displayed. It will be calculated automatically in Japan time, so please make a reservation at the time in your area. You are stay in timezone: ';
-const TEXT_EXPIRE = 'Expiration time : ';
