@@ -4,7 +4,7 @@
 
 ClassFunc first package library
 
-![](demo_easy_buttons.gif)
+![demo_easy_buttons](demo_easy_buttons.gif)
 
 ## Usage
 
@@ -14,7 +14,7 @@ ClassFunc first package library
 flutter pub add easy_buttons
 
 dependencies:
-  easy_buttons: ^1.0.6
+  easy_buttons: ^1.0.8
   
 ```
 
@@ -49,6 +49,6 @@ EasyButton(
 
 ## Additional information
 
-```json
+```
 ClassFunc button package for flutter ^.^
 ```

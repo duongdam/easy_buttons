@@ -21,3 +21,7 @@
 ## 1.0.6
 
 * update some information
+
+## 1.0.8
+
+* release package 1.0.8
