@@ -6,7 +6,7 @@ import 'package:flutter_svg/svg.dart';
 
 @immutable
 class EasyButton extends StatelessWidget {
-  const EasyButton(
+  EasyButton(
       {Key? key,
       this.icon,
       this.svgPicture,
